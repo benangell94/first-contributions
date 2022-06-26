@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Jakub Gania](https://github.com/jakubgania)
+- [Ben Angell](https://github.com/benangell94)
 - [Shashwat Shah](https://github.com/shashwat-shah)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
